@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "study-ai",
+  "version": "0.1.0",
+  "description": "Adaptive AI learning workflows for knowledge assessment, conceptual explanation, Socratic questioning, examinations, and solution review."
+}
