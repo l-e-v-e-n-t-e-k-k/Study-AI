@@ -1,0 +1,35 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor-specific files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+__pycache__/
+.pytest_cache/
+
+# Node.js (if used later)
+node_modules/
+dist/
+coverage/
+
+# Local test outputs
+test-results/
+.tmp/
+.cache/
